@@ -1,0 +1,1 @@
+# Developing-a-Remote-Sensing-Algorithm-for-Manure-Detection-in-Organic-Farming
